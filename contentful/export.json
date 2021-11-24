@@ -500,19 +500,19 @@
             },
             "fields": {
                 "name": {
-                    "en-US": "John Doe"
+                    "en-US": "Borstch"
                 },
                 "title": {
-                    "en-US": "Web Developer"
+                    "en-US": "Website and application building platform"
                 },
                 "company": {
-                    "en-US": "ACME"
+                    "en-US": "Borstch"
                 },
                 "shortBio": {
                     "en-US": "Research and recommendations for modern stack websites."
                 },
                 "email": {
-                    "en-US": "john@doe.com"
+                    "en-US": "anton@borstch.com"
                 },
                 "phone": {
                     "en-US": "0176 / 1234567"
